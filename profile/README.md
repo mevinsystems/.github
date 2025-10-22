@@ -25,7 +25,7 @@ Currently in stealth mode, identifying the right problems to solve and the indus
 
 
 | | |
-|:---:|:---|
+|:---|:---|
 | Progressive |Forward-thinking technology and modern architectures|
 | Pragmatic |  Real-world solutions that actually work |
 | Passionate  | Excellence in everything we build |
