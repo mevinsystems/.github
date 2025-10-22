@@ -1,8 +1,6 @@
 ![profile-banner](https://github.com/maki-studio/.github/blob/main/profile/github-banner.png?raw=true)
 <!-- ![Mevin Software Systems Banner](https://github.com/your-org-name/.github/blob/main/profile/your-banner-name.png?raw=true) -->
 
----
-# MSS - Mevin Software Systeme
 > building, scaling, delivering.
 
 ---
@@ -15,21 +13,27 @@ We're **progressive**, **pragmatic**, and **passionate** about creating software
 
 Currently in stealth mode, identifying the right problems to solve and the industries where we can create the most value.
 
----
+<br/>
 
 ## `Our Principles` 💡
 
-- [x] ![Progressive](https://img.shields.io/badge/Progressive-7C3AED?style=flat&logo=rocket&logoColor=white) Forward-thinking technology and modern architectures
+![Progressive](https://img.shields.io/badge/Progressive-7C3AED?style=flat&logo=rocket&logoColor=white)
+![Pragmatic](https://img.shields.io/badge/Pragmatic-F97316?style=flat&icon=tools&logoColor=white)
+![Passionate](https://img.shields.io/badge/Passionate-DC0028?style=flat&logo=heart&logoColor=white)
+![Honest](https://img.shields.io/badge/Honest-00A67E?style=flat&logo=shield&logoColor=white)
+![Powerful](https://img.shields.io/badge/Powerful-D4AF37?style=flat&logo=zap&logoColor=white)
 
-- [x] ![Pragmatic](https://img.shields.io/badge/Pragmatic-F97316?style=flat&icon=tools&logoColor=white) Real-world solutions that actually work
 
-- [x] ![Passionate](https://img.shields.io/badge/Passionate-DC0028?style=flat&logo=heart&logoColor=white) Excellence in everything we build
+| | |
+|:---:|:---|
+| Progressive |Forward-thinking technology and modern architectures|
+| Pragmatic |  Real-world solutions that actually work |
+| Passionate  | Excellence in everything we build |
+| Honest  |  Transparent communication, ethical practices |
+| Powerful |  Software that drives real business value |
+|  |  |
 
-- [x] ![Honest](https://img.shields.io/badge/Honest-00A67E?style=flat&logo=shield&logoColor=white) Transparent communication, ethical practices
-
-- [x] ![Powerful](https://img.shields.io/badge/Powerful-D4AF37?style=flat&logo=zap&logoColor=white) Software that drives real business value
-
----
+<br/>
 
 ## `What We're Building` 🛠️
 
@@ -42,7 +46,7 @@ Watch this space as we transition from planning to **shipping**.
 - Security-first design
 - Multi-industry scalability
 
----
+<br/>
 
 ## `Our Tech Stack` 🔧
 
@@ -61,6 +65,10 @@ Watch this space as we transition from planning to **shipping**.
 
 ###### * Modern, battle-tested technologies for enterprise scale 🎯
 
+<br/>
+
+---
+
 ---
 
 ## `Join the Journey` 🚀
@@ -72,6 +80,9 @@ MSS is just getting started. Want to follow along?
 - 🔔 **Follow** our progress from inception to impact
 
 <!-- Interested in collaborating or learning more? Reach out.-->
+
+<br/>
+<br/>
 
 ---
 
