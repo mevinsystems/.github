@@ -1,5 +1,4 @@
-![profile-banner](https://github.com/maki-studio/.github/blob/main/profile/github-banner.png?raw=true)
-<!-- ![Mevin Software Systems Banner](https://github.com/your-org-name/.github/blob/main/profile/your-banner-name.png?raw=true) -->
+![Mevin Software Systems Banner](https://github.com/mevinsystems/.github/blob/main/profile/github-banner.png?raw=true)
 
 > building, scaling, delivering.
 
@@ -7,8 +6,8 @@
 
 ## `Welcome` 👋
 
-We're MSS – an enterprise software company in our inception phase. 🚀  
-Building robust, scalable solutions that work across industries.  
+We're MSS – an enterprise software company in our inception phase. 🚀
+Building robust, scalable solutions that work across industries.
 We're **progressive**, **pragmatic**, and **passionate** about creating software that delivers real impact.
 
 Currently in stealth mode, identifying the right problems to solve and the industries where we can create the most value.
@@ -23,7 +22,6 @@ Currently in stealth mode, identifying the right problems to solve and the indus
 ![Honest](https://img.shields.io/badge/Honest-00A67E?style=flat&logo=shield&logoColor=white)
 ![Powerful](https://img.shields.io/badge/Powerful-D4AF37?style=flat&logo=zap&logoColor=white)
 
-
 | | |
 |:---|:---|
 | Progressive |Forward-thinking technology and modern architectures|
@@ -37,10 +35,11 @@ Currently in stealth mode, identifying the right problems to solve and the indus
 
 ## `What We're Building` 🛠️
 
-Right now? We're in the **ideation phase** – researching, planning, and laying the foundation.  
+Right now? We're in the **ideation phase** – researching, planning, and laying the foundation.
 Watch this space as we transition from planning to **shipping**.
 
 **Focus areas:**
+
 - Enterprise-grade systems
 - Cloud-native architectures
 - Security-first design
