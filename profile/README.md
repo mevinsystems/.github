@@ -3,10 +3,10 @@
 
 ## `Hi there`, 👋
 
-We are a lean remote team 📍🌍
-We're' a team of passionate and pragmatic software engineers in the inception stage, establishing our foundation and getting ready to build.
-Currently in stealth mode, identifying the right problems to solve and the industries where we can create the most value.
-[Visit our website 🔗](https://www.mevinsystems.online) for more.
+We are a lean remote team 📍🌍  
+We're' a team of passionate and pragmatic software engineers in the inception stage, establishing our foundation and getting ready to build.  
+Currently in stealth mode, identifying the right problems to solve and the industries where we can create the most value.  
+[Visit our website](https://www.mevinsystems.online) for more.
 
 ## `Here's some of the techstack tools We use:` 🔨
 
@@ -24,7 +24,6 @@ Currently in stealth mode, identifying the right problems to solve and the indus
 <a href="https://kubernetes.io/"><img width="48" height="48" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></a>
 </div>
 
-###### * fun fact, these tools can be used for `FREE!` 🎈
 
 <!--
 ## `Welcome` 👋
@@ -103,7 +102,6 @@ MSS is just getting started. Want to follow along?
 
 -->
 
-<br/>
 <br/>
 
 ---
