@@ -6,22 +6,22 @@
 We are a lean remote team 📍🌍  
 We're' a team of passionate and pragmatic software engineers in the inception stage, establishing our foundation and getting ready to build.  
 Currently in stealth mode, identifying the right problems to solve and the industries where we can create the most value.  
-[Visit our website](https://www.mevinsystems.online) for more.
+<!--[Visit our website](https://www.mevinsystems.online) for more. -->
 
 ## `Here's some of the techstack tools We use:` 🔨
 
 <div align="">
 
-<a href="https://www.typescript.org/"><img width="48" height="48" title="visit Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-<a href="https://go.dev/"><img  width="48" height="48" title="visit Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
-<a href="https://www.php.net/"><img width="48" height="48" title="visit Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
-<a href="https://www.python.org/"><img width="48" height="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a><a href="https://www.docker.com/"><img width="48" height="48" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="https://redis.io/"><img width="48" height="48" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
-<a href="https://www.postgresql.org/"><img width="48" height="48" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-<a href="https://cloudflare.com/"><img width="48" height="48" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" /></a>
-<a href="https://www.terraform.io/"><img width="48" height="48" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></a>
-<a href="https://github.com/"><img width="48" height="48" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-<a href="https://kubernetes.io/"><img width="48" height="48" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></a>
+<a href="https://www.typescript.org/"><img width="48" title="visit Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+<a href="https://go.dev/"><img  width="48" margin="" title="visit Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
+<a href="https://www.php.net/"><img width="48" title="visit Php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
+<a href="https://www.python.org/"><img width="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a><a href="https://www.docker.com/"><img width="48" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+<a href="https://redis.io/"><img width="48" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
+<a href="https://www.postgresql.org/"><img width="48" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+<a href="https://cloudflare.com/"><img width="48" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" /></a>
+<a href="https://www.terraform.io/"><img width="48" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /></a>
+<a href="https://github.com/"><img width="48" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://kubernetes.io/"><img width="48" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></a>
 </div>
 
 
