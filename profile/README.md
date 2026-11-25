@@ -3,10 +3,15 @@
 
 ## `Hi there`, 👋
 
-We are a lean remote team 📍🌍  
-We're' a team of passionate and pragmatic software engineers in the inception stage, establishing our foundation and getting ready to build.  
-Currently in stealth mode, identifying the right problems to solve and the industries where we can create the most value.  
-<!--[Visit our website](https://www.mevinsystems.online) for more. -->
+We are a lean remote team 📍🌍  **`(GMT+2)`**
+
+We're a team of passionate and pragmatic software engineers in the business software sector, Our mandate is to build software that meets African enterprises where they are, to the standard of anywhere in the world.  
+
+>> 📌 **Local understanding.**  
+>> 📌 **Global engineering standards.**   
+>> 📌 **No compromise on either.**  
+
+Visit our [**website**](https://www.mevinsystems.online) for more.
 
 ## `Here's some of the techstack tools We use:` 🔨
 
